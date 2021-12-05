@@ -1,0 +1,8 @@
+pickle
+jieba
+
+[dev]
+check-manifest
+
+[test]
+coverage

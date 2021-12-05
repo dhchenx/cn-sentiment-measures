@@ -1,0 +1,12 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+src/cn_sentiment_measures/__init__.py
+src/cn_sentiment_measures/sentiment_measures.py
+src/cn_sentiment_measures.egg-info/PKG-INFO
+src/cn_sentiment_measures.egg-info/SOURCES.txt
+src/cn_sentiment_measures.egg-info/dependency_links.txt
+src/cn_sentiment_measures.egg-info/requires.txt
+src/cn_sentiment_measures.egg-info/top_level.txt
