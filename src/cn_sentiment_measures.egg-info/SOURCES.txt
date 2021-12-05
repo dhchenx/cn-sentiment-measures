@@ -10,3 +10,9 @@ src/cn_sentiment_measures.egg-info/SOURCES.txt
 src/cn_sentiment_measures.egg-info/dependency_links.txt
 src/cn_sentiment_measures.egg-info/requires.txt
 src/cn_sentiment_measures.egg-info/top_level.txt
+src/cn_sentiment_measures/__pycache__/__init__.cpython-36.pyc
+src/cn_sentiment_measures/__pycache__/sentiment_measures.cpython-36.pyc
+src/cn_sentiment_measures/libs/dict_degree_words.pickle
+src/cn_sentiment_measures/libs/dict_negative_words.pickle
+src/cn_sentiment_measures/libs/dict_positive_words.pickle
+src/cn_sentiment_measures/libs/stopwords-zh.txt

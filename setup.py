@@ -36,7 +36,7 @@ setup(
     # For a discussion on single-sourcing the version across setup.py and the
     # project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='1.0.0.dev1',  # Required
+    version='1.0.0.dev4',  # Required
 
     # This is a one-line description or tagline of what your project does. This
     # corresponds to the "Summary" metadata field:
@@ -143,7 +143,6 @@ setup(
     # For an analysis of "install_requires" vs pip's requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
     install_requires=[
-        'pickle',
         "jieba",
     ],  # Optional
 
@@ -162,6 +161,7 @@ setup(
 
     # If there are data files included in your packages that need to be
     # installed, specify them here.
+    include_package_data=True,
     package_data={  # Optional
         #'sample': ['package_data.dat'],
     },

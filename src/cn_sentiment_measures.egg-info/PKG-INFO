@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: cn-sentiment-measures
-Version: 1.0.0.dev1
+Version: 1.0.0.dev4
 Summary: A toolkit for estimating Chinese sentiment scores with multiple measures.
 Home-page: https://github.com/dhchenx/cn-sentiment-measures
 Author: Donghua Chen
@@ -30,6 +30,10 @@ License-File: LICENSE.txt
 # Chinese Sentiment Measures 
 
 A toolkit for estimating Chinese sentiment scores with multiple measures. 
+
+```pip
+pip install cn-sentiment-measures
+```
 
 ## Measures
 1. Absolute Proportional Difference - APD. Bounds: [-1, 1]
